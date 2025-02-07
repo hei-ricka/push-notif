@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845419175",
+    "project_id": "message-react-native-213d4",
+    "storage_bucket": "message-react-native-213d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845419175:android:55ffc98b0816333e604182",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-CE4CqZNTOXyZj0zjBWHiqOiGT03BwNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

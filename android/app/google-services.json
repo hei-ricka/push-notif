@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556138723873",
+    "project_id": "messaging-da156",
+    "storage_bucket": "messaging-da156.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556138723873:android:01b63a31ab6ea25c58c160",
+        "android_client_info": {
+          "package_name": "com.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-bv7HtGGaIc3rlptxRwh6lId9AZZVCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

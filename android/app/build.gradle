@@ -80,7 +80,7 @@ android {
 
     namespace "com.todo"
     defaultConfig {
-        applicationId "com.todo"
+        applicationId "com.todo.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

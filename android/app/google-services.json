@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "845419175",
-    "project_id": "message-react-native-213d4",
-    "storage_bucket": "message-react-native-213d4.firebasestorage.app"
+    "project_number": "411946665346",
+    "project_id": "todo-85e01",
+    "storage_bucket": "todo-85e01.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:845419175:android:55ffc98b0816333e604182",
+        "mobilesdk_app_id": "1:411946665346:android:ccf4f849461907426f7b9b",
         "android_client_info": {
-          "package_name": "com.example.message"
+          "package_name": "com.todo.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD-CE4CqZNTOXyZj0zjBWHiqOiGT03BwNU"
+          "current_key": "AIzaSyDn1KscmdmTeJPdntFV0SBKgD37SyDnvds"
         }
       ],
       "services": {
